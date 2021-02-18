@@ -1,0 +1,30 @@
+{
+    "name": "laraveldesign/contact-form",
+    "description": "Contact form plugin for Laravel.",
+    "keywords": [
+        "laraveldesign",
+        "contact"
+    ],
+    "homepage": "https://github.com/laraveldesign/contact-form",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Shane Barron",
+            "email": "cshanebarron@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Laraveldesign\\ContactForm\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laraveldesign\\ContactForm\\ContactFormServiceProvider"
+            ]
+        }
+    }
+}
