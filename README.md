@@ -1,8 +1,8 @@
 # Laravel Contact Form
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/laraveldesign/contact-form.svg?style=flat-square)](https://packagist.org/packages/laraveldesign/votes)
-[![Quality Score](https://img.shields.io/scrutinizer/g/laraveldesign/contact-form.svg?style=flat-square)](https://scrutinizer-ci.com/g/laraveldesign/votes)
-[![Total Downloads](https://img.shields.io/packagist/dt/laraveldesign/contact-form.svg?style=flat-square)](https://packagist.org/packages/laraveldesign/votes)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/laraveldesign/contact-form.svg?style=flat-square)](https://packagist.org/packages/laraveldesign/contact-form)
+[![Quality Score](https://img.shields.io/scrutinizer/g/laraveldesign/contact-form.svg?style=flat-square)](https://scrutinizer-ci.com/g/laraveldesign/contact-form)
+[![Total Downloads](https://img.shields.io/packagist/dt/laraveldesign/contact-form.svg?style=flat-square)](https://packagist.org/packages/laraveldesign/contact-form)
 
 Provides a voting mechanism for Laravel projects.  
 
