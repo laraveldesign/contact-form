@@ -30,7 +30,7 @@
                             </tr>
                             <tr>
                                 <td style="color:#153643; font-gamily: Arial, sans-serif;">
-                                    <p style="font-size:18px;margin:0;">Email: {[$contact->email}}</p>
+                                    <p style="font-size:18px;margin:0;">Email: {{$contact->email}}</p>
                                 </td>
                             </tr>
                             <tr>
